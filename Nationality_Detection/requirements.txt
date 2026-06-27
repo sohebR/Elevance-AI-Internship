@@ -1,0 +1,8 @@
+opencv-python
+deepface
+tensorflow
+numpy
+Pillow
+scikit-learn
+webcolors
+pandas
